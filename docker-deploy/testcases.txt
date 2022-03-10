@@ -1,0 +1,98 @@
+1.POST: http://httpbin.org/forms/post
+log output:
+38: Requesting "GET http://httpbin.org/forms/post HTTP/1.1" fromhttpbin.org
+38: Received "HTTP/1.1 200 OK" from httpbin.org
+38: Responding "HTTP/1.1 200 OK"
+38: "GET http://httpbin.org/forms/post HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:00:13 2022
+39: Requesting "POST http://httpbin.org/post HTTP/1.1" fromhttpbin.org
+39: "POST http://httpbin.org/post HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:00:25 2022
+
+2.Test for max-age (max-age is 0) :http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx
+log output:
+181: Requesting "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" fromwww.httpwatch.com
+181: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+181: Responding "HTTP/1.1 200 OK"
+181: not cacheable because max-age=0
+
+3.Get: www.gov.cn
+log output:
+50: "GET http://www.gov.cn/govweb/xhtml/2016gov/public/pic20181229/jquery.SuperSlide.2.1.js HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:16:18 2022
+27: Received "HTTP/1.1 200 OK" from www.gov.cn
+27: Responding "HTTP/1.1 200 OK"
+
+4.chunked: http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx
+log output:
+184: not in cache
+184: Requesting "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" fromwww.httpwatch.com
+184: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+184: Responding "HTTP/1.1 200 OK"
+184: not cacheable becasue no-store in header
+184: "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:05 2022
+185: not in cache
+185: Requesting "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" fromwww.httpwatch.com
+185: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+185: Responding "HTTP/1.1 200 OK"
+185: not cacheable because max-age=0
+185: "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:10 2022
+
+
+
+5.CONNECT : www.baidu.com
+log output:
+191: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:51 2022
+188: Tunnel Closed
+188: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:51 2022
+189: Tunnel Closed
+189: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:51 2022
+193: Tunnel Closed
+193: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:51 2022
+192: Tunnel Closed
+192: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:51 2022
+201: Tunnel Closed
+201: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:52 2022
+195: Tunnel Closed
+195: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:51 2022
+
+    https://www.youtube.com/watch?v=eB2OpurOFhk
+log output:
+318: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" fromdetectportal.firefox.com
+286: "CONNECT rr1---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:22:25 2022
+319: not in cache
+319: Requesting "GET http://detectportal.firefox.com/canonical.html HTTP/1.1" fromdetectportal.firefox.com
+318: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+318: Responding "HTTP/1.1 200 OK"
+318: not cacheable because max-age=0
+318: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:23:14 2022
+319: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+319: Responding "HTTP/1.1 200 OK"
+319: not cacheable because max-age=0
+319: "GET http://detectportal.firefox.com/canonical.html HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:23:14 2022
+320: not in cache
+320: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" fromdetectportal.firefox.com
+320: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+320: Responding "HTTP/1.1 200 OK"
+320: not cacheable because max-age=0
+320: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:23:15 2022
+186: Tunnel Closed
+186: "CONNECT contile.services.mozilla.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:20:29 2022
+224: Tunnel Closed
+224: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:22:01 2022
+222: Tunnel Closed
+
+6:cache  https://h2020.myspecies.info/
+log output:
+637: Requesting "GET http://www.gravatar.com/avatar/c40ade7d2eaa519364f006e8a9ca87ed.jpg?d=https%3A//h2020.myspecies.info/sites/all/modules/contrib/gravatar/avatar.png&s=100&r=G HTTP/1.1" fromwww.gravatar.com
+637: Received "HTTP/1.1 302 Found" from www.gravatar.com
+637: Responding "HTTP/1.1 302 Found"
+637: cached, but requires re-validation
+
+7.other popular websites 
+https://twitter.com/i/flow/login
+log output:
+651: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:29:50 2022
+656: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" fromocsp.digicert.com
+656: "POST http://ocsp.digicert.com/ HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:30:10 2022
+661: Tunnel Closed
+661: "CONNECT abs.twimg.com:443 HTTP/1.1" from 10.197.219.131@Sat Feb 19 20:30:11 2022
+658: Tunnel Closed
+

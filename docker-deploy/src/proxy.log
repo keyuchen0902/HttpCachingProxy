@@ -1,0 +1,590 @@
+4: Tunnel Closed
+4: "CONNECT fls-cn.amazon.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:33 2022
+6: Tunnel Closed
+6: "CONNECT fls-cn.amazon.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:39 2022
+7: not in cache
+7: Requesting "GET http://www.cad.zju.edu.cn/index.html HTTP/1.1" fromwww.cad.zju.edu.cn
+7: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+7: Responding "HTTP/1.1 200 OK"
+7: "GET http://www.cad.zju.edu.cn/index.html HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:41 2022
+11: not in cache
+11: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+12: not in cache
+12: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+13: not in cache
+13: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+14: not in cache
+14: Requesting "GET http://www.cad.zju.edu.cn/favicon.ico HTTP/1.1" fromwww.cad.zju.edu.cn
+11: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+11: Responding "HTTP/1.1 200 OK"
+11: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:42 2022
+13: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+13: Responding "HTTP/1.1 200 OK"
+13: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:42 2022
+12: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+12: Responding "HTTP/1.1 200 OK"
+12: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:42 2022
+14: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+14: Responding "HTTP/1.1 200 OK"
+14: "GET http://www.cad.zju.edu.cn/favicon.ico HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:43 2022
+15: not in cache
+15: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+16: not in cache
+16: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+17: not in cache
+17: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+15: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+15: Responding "HTTP/1.1 206 Partial Content"
+15: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:58 2022
+16: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+16: Responding "HTTP/1.1 206 Partial Content"
+16: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:58 2022
+17: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+17: Responding "HTTP/1.1 206 Partial Content"
+17: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:58 2022
+18: Tunnel Closed
+18: "CONNECT tracking.firefox.com.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+21: Tunnel Closed
+21: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+25: Tunnel Closed
+25: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+24: Tunnel Closed
+24: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+22: Tunnel Closed
+22: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+23: Tunnel Closed
+23: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+27: Tunnel Closed
+27: "CONNECT newtab.firefoxchina.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+26: Tunnel Closed
+26: "CONNECT newtab.firefoxchina.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+9: Tunnel Closed
+9: "CONNECT fls-cn.amazon.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:41 2022
+29: not in cache
+29: Requesting "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" fromwww.httpwatch.com
+29: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+29: Responding "HTTP/1.1 200 OK"
+29: not cacheable becasue no-store in header
+29: "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:20 2022
+31: Tunnel Closed
+31: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:24 2022
+32: not in cache
+32: Requesting "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" fromwww.httpwatch.com
+32: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+32: Responding "HTTP/1.1 200 OK"
+32: not cacheable because max-age=0
+32: "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:25 2022
+10: "CONNECT unagi.amazon.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:42 2022
+8: "CONNECT unagi.amazon.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:42:41 2022
+35: not in cache
+35: Requesting "GET http://httpbin.org/forms/post HTTP/1.1" fromhttpbin.org
+35: Received "HTTP/1.1 200 OK" from httpbin.org
+35: Responding "HTTP/1.1 200 OK"
+35: "GET http://httpbin.org/forms/post HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:59 2022
+36: not in cache
+36: Requesting "GET http://httpbin.org/favicon.ico HTTP/1.1" fromhttpbin.org
+36: Received "HTTP/1.1 404 NOT FOUND" from httpbin.org
+36: Responding "HTTP/1.1 404 NOT FOUND"
+36: "GET http://httpbin.org/favicon.ico HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:59 2022
+40: Tunnel Closed
+40: "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:44:07 2022
+41: Requesting "POST http://httpbin.org/post HTTP/1.1" fromhttpbin.org
+41: "POST http://httpbin.org/post HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:44:15 2022
+42: not in cache
+43: not in cache
+42: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+43: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+44: not in cache
+44: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+42: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+42: Responding "HTTP/1.1 206 Partial Content"
+42: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" from 10.197.219.131@43: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+43: Responding "HTTP/1.1 206 Partial Content"
+43: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:44:21 2022
+44: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+44: Responding "HTTP/1.1 206 Partial Content"
+44: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:44:21 2022
+46: not in cache
+46: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+47: not in cache
+47: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+48: not in cache
+48: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+48: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+48: Responding "HTTP/1.1 206 Partial Content"
+48: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:45:01 2022
+46: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+46: Responding "HTTP/1.1 206 Partial Content"
+46: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:45:01 2022
+47: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+47: Responding "HTTP/1.1 206 Partial Content"
+47: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:45:01 2022
+20: Tunnel Closed
+20: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+28: Tunnel Closed
+28: "CONNECT newtab.firefoxchina.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+19: Tunnel Closed
+19: "CONNECT tracking.firefox.com.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:06 2022
+30: Tunnel Closed
+30: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:24 2022
+54: Tunnel Closed
+54: "CONNECT www.amazon.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:46:30 2022
+58: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+58: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:36 2022
+60: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+60: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:38 2022
+33: Tunnel Closed
+33: "CONNECT newtab.firefoxchina.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:48 2022
+34: Tunnel Closed
+34: "CONNECT api2.firefoxchina.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:43:48 2022
+62: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+62: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:40 2022
+65: Tunnel Closed
+65: "CONNECT g.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+63: Tunnel Closed
+63: "CONNECT g.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+64: Tunnel Closed
+64: "CONNECT g.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+67: Tunnel Closed
+67: "CONNECT g.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+74: Tunnel Closed
+74: "CONNECT at.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+68: Tunnel Closed
+68: "CONNECT img.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+72: Tunnel Closed
+72: "CONNECT gw.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+82: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+83: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+82: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:42 2022
+83: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:42 2022
+84: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+85: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+85: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:43 2022
+84: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:43 2022
+91: Tunnel Closed
+91: "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:46 2022
+93: Tunnel Closed
+93: "CONNECT pass.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:48 2022
+37: Tunnel Closed
+37: "CONNECT spocs.getpocket.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:44:04 2022
+38: Tunnel Closed
+38: "CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:44:04 2022
+39: Tunnel Closed
+39: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:44:05 2022
+98: Tunnel Closed
+98: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:02 2022
+99: Tunnel Closed
+99: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:02 2022
+100: Tunnel Closed
+100: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:02 2022
+101: Tunnel Closed
+101: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:02 2022
+105: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+106: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" fromocsp2.globalsign.com
+105: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:04 2022
+106: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:04 2022
+104: Tunnel Closed
+104: "CONNECT ecpm.tanx.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:03 2022
+102: Tunnel Closed
+102: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:03 2022
+107: Tunnel Closed
+107: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:06 2022
+108: Tunnel Closed
+108: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:06 2022
+109: Tunnel Closed
+109: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:07 2022
+110: Tunnel Closed
+110: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:07 2022
+111: Tunnel Closed
+111: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:08 2022
+112: Tunnel Closed
+112: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:08 2022
+113: Tunnel Closed
+113: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:08 2022
+114: Tunnel Closed
+114: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:08 2022
+136: Tunnel Closed
+136: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+130: Tunnel Closed
+130: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+132: Tunnel Closed
+132: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+138: Tunnel Closed
+138: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+133: Tunnel Closed
+133: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+134: Tunnel Closed
+134: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+145: Requesting "POST http://ocsp.digicert.cn/ HTTP/1.1" fromocsp.digicert.cn
+123: Tunnel Closed
+123: "CONNECT t12.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+127: Tunnel Closed
+127: "CONNECT t7.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+145: "POST http://ocsp.digicert.cn/ HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+153: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+153: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:13 2022
+118: Tunnel Closed
+118: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+154: Tunnel Closed
+154: "CONNECT sp3.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:14 2022
+155: not in cache
+155: Requesting "GET http://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp HTTP/1.1" fromwww.google.com.hk
+155: Received "HTTP/1.1 302 Found" from www.google.com.hk
+155: Responding "HTTP/1.1 302 Found"
+155: not cacheable becasue private in header
+155: "GET http://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:15 2022
+157: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+157: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:15 2022
+159: Tunnel Closed
+159: "CONNECT www.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+161: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+161: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+169: Tunnel Closed
+169: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:17 2022
+166: Tunnel Closed
+166: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:17 2022
+167: Tunnel Closed
+167: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:17 2022
+168: Tunnel Closed
+168: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:17 2022
+170: Tunnel Closed
+170: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:17 2022
+176: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+176: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:21 2022
+1: "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:42:26 2022
+2: "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:42:26 2022
+3: "CONNECT unagi-na.amazon.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:42:26 2022
+178: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+178: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:22 2022
+181: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+181: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:22 2022
+188: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+189: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+190: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+191: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+188: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+192: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+189: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+190: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+191: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+192: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+187: Tunnel Closed
+187: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+185: Tunnel Closed
+185: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+183: Tunnel Closed
+183: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+186: Tunnel Closed
+186: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+184: Tunnel Closed
+184: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+194: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+194: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:37 2022
+198: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+199: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+198: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:41 2022
+199: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:41 2022
+202: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+203: Requesting "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" fromocsp.pki.goog
+202: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:41 2022
+203: "POST http://ocsp.pki.goog/gts1c3 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:41 2022
+143: Tunnel Closed
+143: "CONNECT fclick.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+144: Tunnel Closed
+144: "CONNECT fclick.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+142: Tunnel Closed
+142: "CONNECT fclick.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+150: Tunnel Closed
+150: "CONNECT tts.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:13 2022
+209: Tunnel Closed
+209: "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+215: Tunnel Closed
+212: Tunnel Closed
+212: "CONNECT pagead2.googlesyndication.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:48 2022
+215: "CONNECT ade.googlesyndication.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:48 2022
+216: Tunnel Closed
+216: "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:48 2022
+56: "CONNECT unagi.amazon.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:46:30 2022
+121: Tunnel Closed
+121: "CONNECT t10.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+122: Tunnel Closed
+122: "CONNECT t12.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+124: Tunnel Closed
+124: "CONNECT t7.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+135: Tunnel Closed
+135: "CONNECT hectorstatic.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+137: Tunnel Closed
+137: "CONNECT nv00.cdn.bcebos.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+141: Tunnel Closed
+141: "CONNECT bkssl.bdimg.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+55: "CONNECT unagi.amazon.com:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:46:30 2022
+119: Tunnel Closed
+119: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+128: Tunnel Closed
+128: "CONNECT dss0.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+146: Tunnel Closed
+146: "CONNECT sp1.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+149: Tunnel Closed
+149: "CONNECT dss2.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+148: Tunnel Closed
+148: "CONNECT sp1.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+117: Tunnel Closed
+117: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:09 2022
+120: Tunnel Closed
+120: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+140: Tunnel Closed
+140: "CONNECT sp1.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+115: Tunnel Closed
+115: "CONNECT www.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:09 2022
+53: Tunnel Closed
+53: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:45:20 2022
+221: not in cache
+221: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+222: not in cache
+222: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+223: not in cache
+223: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+222: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+222: Responding "HTTP/1.1 206 Partial Content"
+222: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:39 2022
+221: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+221: Responding "HTTP/1.1 206 Partial Content"
+221: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:39 2022
+223: Received "HTTP/1.1 206 Partial Content" from www.cad.zju.edu.cn
+223: Responding "HTTP/1.1 206 Partial Content"
+223: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:39 2022
+76: Tunnel Closed
+76: "CONNECT publish-pic-cpu.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+226: not in cache
+226: Requesting "GET http://www.cad.zju.edu.cn/index.html HTTP/1.1" fromwww.cad.zju.edu.cn
+226: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+226: Responding "HTTP/1.1 200 OK"
+226: "GET http://www.cad.zju.edu.cn/index.html HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:48 2022
+227: not in cache
+227: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+228: not in cache
+228: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+229: not in cache
+229: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+228: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+228: Responding "HTTP/1.1 200 OK"
+228: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/ENGLISH.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:48 2022
+227: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+227: Responding "HTTP/1.1 200 OK"
+227: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zhongwen.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:48 2022
+229: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+229: Responding "HTTP/1.1 200 OK"
+229: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/zd.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:48 2022
+129: Tunnel Closed
+129: "CONNECT fc-ccimage.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+126: Tunnel Closed
+126: "CONNECT tiebapic.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+125: Tunnel Closed
+125: "CONNECT fc-ccimage.baidu.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+139: Tunnel Closed
+139: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+131: Tunnel Closed
+131: "CONNECT pss.bdstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:10 2022
+0: Tunnel Closed
+0: "CONNECT d23tl967axkois.cloudfront.net:443 HTTP/1.1" from 10.197.21.198@Tue Feb 22 18:42:26 2022
+231: not in cache
+231: Requesting "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" fromwww.httpwatch.com
+231: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+231: Responding "HTTP/1.1 200 OK"
+231: not cacheable becasue no-store in header
+231: "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:49:18 2022
+57: Tunnel Closed
+57: "CONNECT s.click.taobao.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:35 2022
+59: Tunnel Closed
+59: "CONNECT s.click.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:37 2022
+75: Tunnel Closed
+73: Tunnel Closed
+75: "CONNECT tracking.firefox.com.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+69: Tunnel Closed
+73: "CONNECT at.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+69: "CONNECT gtms03.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+81: Tunnel Closed
+81: "CONNECT newtab.firefoxchina.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:42 2022
+196: Tunnel Closed
+196: "CONNECT rr4---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:40 2022
+201: Tunnel Closed
+201: "CONNECT rr4---sn-5ualdnee.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:41 2022
+197: Tunnel Closed
+197: "CONNECT rr4---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:40 2022
+88: Tunnel Closed
+88: "CONNECT tbip.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:45 2022
+200: Tunnel Closed
+200: "CONNECT rr4---sn-5ualdnee.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:41 2022
+90: Tunnel Closed
+90: "CONNECT kangaroo.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:46 2022
+89: Tunnel Closed
+89: "CONNECT ocservice.taobao.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:45 2022
+87: Tunnel Closed
+87: "CONNECT login.taobao.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:44 2022
+92: Tunnel Closed
+92: "CONNECT pass.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:46 2022
+94: Tunnel Closed
+94: "CONNECT www.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:49 2022
+208: Tunnel Closed
+207: Tunnel Closed
+208: "CONNECT rr2---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+207: "CONNECT rr2---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+206: Tunnel Closed
+206: "CONNECT rr2---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+95: Tunnel Closed
+95: "CONNECT fragment.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:53 2022
+79: Tunnel Closed
+79: "CONNECT gm.mmstat.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:42 2022
+218: Tunnel Closed
+218: "CONNECT rr3---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:54 2022
+217: Tunnel Closed
+217: "CONNECT rr3---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:54 2022
+97: Tunnel Closed
+97: "CONNECT s.tbcdn.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:00 2022
+96: Tunnel Closed
+80: Tunnel Closed
+71: Tunnel Closed
+80: "CONNECT top-tmm.taobao.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:42 2022
+71: "CONNECT gw.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+96: "CONNECT chaoshi.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:57 2022
+78: Tunnel Closed
+70: Tunnel Closed
+70: "CONNECT img.alicdn.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+78: "CONNECT h5api.m.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:42 2022
+116: Tunnel Closed
+116: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:09 2022
+147: Tunnel Closed
+147: "CONNECT bar.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:11 2022
+151: Tunnel Closed
+152: Tunnel Closed
+151: "CONNECT www.google.cn:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:13 2022
+152: "CONNECT fragment.tmall.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:13 2022
+160: Tunnel Closed
+160: "CONNECT apis.google.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+162: Tunnel Closed
+162: "CONNECT adservice.google.com.hk:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+163: Tunnel Closed
+163: "CONNECT adservice.google.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+165: Tunnel Closed
+204: Tunnel Closed
+165: "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:17 2022
+204: "CONNECT rr2---sn-hjoj-gq0l.googlevideo.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+171: Tunnel Closed
+171: "CONNECT id.google.com.hk:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:20 2022
+172: Tunnel Closed
+172: "CONNECT id.google.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:20 2022
+156: Tunnel Closed
+156: "CONNECT www.google.com.hk:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:15 2022
+180: Tunnel Closed
+180: "CONNECT accounts.google.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:22 2022
+179: Tunnel Closed
+179: "CONNECT fonts.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:22 2022
+233: not in cache
+233: Requesting "GET http://www.cad.zju.edu.cn/zdchina.php HTTP/1.1" fromwww.cad.zju.edu.cn
+233: Received "HTTP/1.1 301 Moved Permanently" from www.cad.zju.edu.cn
+233: Responding "HTTP/1.1 301 Moved Permanently"
+233: "GET http://www.cad.zju.edu.cn/zdchina.php HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:23 2022
+234: not in cache
+234: Requesting "GET http://www.cad.zju.edu.cn/zhongwen.html HTTP/1.1" fromwww.cad.zju.edu.cn
+234: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+234: Responding "HTTP/1.1 200 OK"
+234: "GET http://www.cad.zju.edu.cn/zhongwen.html HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:23 2022
+235: not in cache
+235: Requesting "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zd.css HTTP/1.1" fromwww.cad.zju.edu.cn
+236: not in cache
+236: Requesting "GET http://www.cad.zju.edu.cn/templets/default/js/mm_menu.js HTTP/1.1" fromwww.cad.zju.edu.cn
+237: not in cache
+237: Requesting "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zdcss.css HTTP/1.1" fromwww.cad.zju.edu.cn
+239: not in cache
+238: not in cache
+239: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/dian.gif HTTP/1.1" fromwww.cad.zju.edu.cn
+238: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/more.gif HTTP/1.1" fromwww.cad.zju.edu.cn
+240: not in cache
+240: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/more1.gif HTTP/1.1" fromwww.cad.zju.edu.cn
+241: not in cache
+241: Requesting "GET http://www.cad.zju.edu.cn/uploads/allimg/210429/5-210429114311396-lp.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+242: not in cache
+242: Requesting "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zd.css HTTP/1.1" fromwww.cad.zju.edu.cn
+243: not in cache
+243: Requesting "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zdcss.css HTTP/1.1" fromwww.cad.zju.edu.cn
+244: not in cache
+244: Requesting "GET http://www.cad.zju.edu.cn/templets/default/js/mm_menu.js HTTP/1.1" fromwww.cad.zju.edu.cn
+235: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+235: Responding "HTTP/1.1 200 OK"
+235: "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zd.css HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+236: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+236: Responding "HTTP/1.1 200 OK"
+236: "GET http://www.cad.zju.edu.cn/templets/default/js/mm_menu.js HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+237: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+237: Responding "HTTP/1.1 200 OK"
+237: "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zdcss.css HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+241: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+241: Responding "HTTP/1.1 200 OK"
+241: "GET http://www.cad.zju.edu.cn/uploads/allimg/210429/5-210429114311396-lp.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+240: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+240: Responding "HTTP/1.1 200 OK"
+240: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/more1.gif HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+238: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+238: Responding "HTTP/1.1 200 OK"
+238: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/more.gif HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+239: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+239: Responding "HTTP/1.1 200 OK"
+239: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/dian.gif HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+242: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+242: Responding "HTTP/1.1 200 OK"
+242: "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zd.css HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+243: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+243: Responding "HTTP/1.1 200 OK"
+243: "GET http://www.cad.zju.edu.cn/templets/default/zdcss/zdcss.css HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+244: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+244: Responding "HTTP/1.1 200 OK"
+244: "GET http://www.cad.zju.edu.cn/templets/default/js/mm_menu.js HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:24 2022
+245: not in cache
+246: not in cache
+246: Requesting "GET http://www.cad.zju.edu.cn/uploads/allimg/210429/5-210429114311396-lp.jpg HTTP/1.1" fromwww.cad.zju.edu.cn
+245: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/dian.gif HTTP/1.1" fromwww.cad.zju.edu.cn
+247: not in cache
+247: Requesting "GET http://www.cad.zju.edu.cn/templets/default/imgzd/more1.gif HTTP/1.1" fromwww.cad.zju.edu.cn
+245: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+245: Responding "HTTP/1.1 200 OK"
+245: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/dian.gif HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:25 2022
+246: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+246: Responding "HTTP/1.1 200 OK"
+246: "GET http://www.cad.zju.edu.cn/uploads/allimg/210429/5-210429114311396-lp.jpg HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:25 2022
+247: Received "HTTP/1.1 200 OK" from www.cad.zju.edu.cn
+247: Responding "HTTP/1.1 200 OK"
+247: "GET http://www.cad.zju.edu.cn/templets/default/imgzd/more1.gif HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:50:25 2022
+177: Tunnel Closed
+177: "CONNECT fonts.googleapis.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:22 2022
+193: Tunnel Closed
+193: "CONNECT static.doubleclick.net:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:37 2022
+195: Tunnel Closed
+195: "CONNECT youtube.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:38 2022
+174: Tunnel Closed
+174: "CONNECT www.google.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:21 2022
+164: Tunnel Closed
+164: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+205: Tunnel Closed
+205: "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+210: Tunnel Closed
+210: "CONNECT lh5.googleusercontent.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:47 2022
+182: Tunnel Closed
+182: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:27 2022
+214: Tunnel Closed
+214: "CONNECT ad.doubleclick.net:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:48 2022
+211: Tunnel Closed
+211: "CONNECT ade.googlesyndication.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:48 2022
+175: Tunnel Closed
+175: "CONNECT i.ytimg.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:21 2022
+158: Tunnel Closed
+158: "CONNECT www.gstatic.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:16 2022
+213: Tunnel Closed
+213: "CONNECT pagead2.googlesyndication.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:48 2022
+173: Tunnel Closed
+173: "CONNECT www.youtube.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:21 2022
+77: Tunnel Closed
+77: "CONNECT log.mmstat.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:46:41 2022
+103: Tunnel Closed
+103: "CONNECT ecpm.tanx.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:47:03 2022
+219: Tunnel Closed
+219: "CONNECT phs.tanx.com:443 HTTP/1.1" from 10.197.219.131@Tue Feb 22 18:48:21 2022

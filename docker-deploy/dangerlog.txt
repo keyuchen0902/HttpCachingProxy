@@ -1,0 +1,24 @@
+1. Not all port "80" or "433" corresponding to CONNECT or GET, sometimes the browser 
+request us to use the default port number for method like Get, but the target server 
+does not accept port "80" for GET
+
+2.If the buffer size is fixed, we found that we cannot receive all contents from client. 
+We have to keep writing to our buffer first, then append the content to receive data, and
+then empty the buffer, repeat receiving again.
+also, if we found that the data is transferred by chunks, we need to repetitively receiving
+chunks until the end of data piece.
+
+3. All we consider is about HTTP/1.1. We did not care about other version. 
+
+4.In order to make all threads have access to the same resource, we used mutex to implement 
+synchronization. And we write a .h file called "lock.h" to implement the lock.
+
+5. When we handle the time which means we need to get now time to compute the expiration time.
+It is important that we need to minus the num of year 1990. And the month of the year minus 1 
+in the function "add time".  create_time.tm_year = year - 1900;  create_time.tm_month= month - 1;
+also, if we want to do addition on "time", we need to parse and extract it from string, and use
+time_t to get time as seconds from 1900, then add seconds and convert it to struct tm.
+
+6. For the header parsing part. We need to pay attention to the use of substr whose the second parameter
+should be the length instead of position. And the format of http header ought to be paied more attention
+especially the  blank after ":"
